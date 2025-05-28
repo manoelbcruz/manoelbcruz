@@ -40,7 +40,7 @@ O objetivo do nosso laboratório é promover inovação através da interação 
 ### 📊 GitHub Stats
 
 ![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelbcruz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelBarros&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelbcruz&layout=compact&theme=radical)
 
 ---
 
