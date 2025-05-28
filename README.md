@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Manoel Barros 👋</h1>
 
 🎓 Graduando em Ciência da Computação na UEPB - Campus I  
-🔬 Pesquisador e desenvolvedor voluntário no NUTES - UEPB, atuando no laboratório de usabilidade  
+🔬 Pesquisador e desenvolvedor bolsista no NUTES - UEPB, atuando no laboratório de usabilidade  
 💡 Entusiasta por tecnologia, desenvolvimento de sistemas e soluções práticas para o dia a dia  
 📚 Qualidades: fácil entendimento, rápido aprendizado, proatividade, trabalho em equipe, boa comunicação e disposição constante para aprender e evoluir  
 🚀 Buscando sempre crescer como desenvolvedor full stack e contribuir em projetos inovadores  
@@ -18,7 +18,7 @@
 ### 🧪 Sobre o NUTES - UEPB
 
 Atuo como pesquisador e desenvolvedor no **Núcleo de Tecnologia Educacional para a Saúde (NUTES)** da UEPB, com foco no **laboratório de usabilidade**.  
-Desenvolvo soluções centradas no usuário, visando acessibilidade e experiência em interfaces, utilizando tecnologias como **C#, .NET, JavaScript, SQL Server e MongoDB**.  
+Desenvolvo soluções centradas no usuário, visando acessibilidade e experiência em interfaces, utilizando tecnologias como **C#, .NET, Entity Framework e SQL Server**.  
 O objetivo do nosso laboratório é promover inovação através da interação humano-computador em contextos educacionais e assistivos.
 
 ---
