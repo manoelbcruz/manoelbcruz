@@ -1,10 +1,14 @@
 <h1 align="center">Olá! Eu sou Manoel Barros 👋</h1>
 
-🎓 Graduando em Ciência da Computação na UEPB - Campus I  
-🔬 Pesquisador e desenvolvedor bolsista no NUTES - UEPB, atuando no laboratório de usabilidade  
-💡 Entusiasta por tecnologia, desenvolvimento de sistemas e soluções práticas para o dia a dia  
-📚 Qualidades: fácil entendimento, rápido aprendizado, proatividade, trabalho em equipe, boa comunicação e disposição constante para aprender e evoluir  
-🚀 Buscando sempre crescer como desenvolvedor full stack e contribuir em projetos inovadores  
+🎓 Graduando em Ciência da Computação na UEPB - Campus I
+<br>
+🔬 Pesquisador e desenvolvedor bolsista no NUTES - UEPB, atuando no laboratório de usabilidade
+<br>
+💡 Entusiasta por tecnologia, desenvolvimento de sistemas e soluções práticas para o dia a dia
+<br>
+📚 Qualidades: fácil entendimento, rápido aprendizado, proatividade, trabalho em equipe, boa comunicação e disposição constante para aprender e evoluir
+<br>
+🚀 Buscando sempre crescer como desenvolvedor full stack e contribuir em projetos inovadores
 
 ---
 
@@ -17,22 +21,33 @@
 
 ### 🧪 Sobre o NUTES - UEPB
 
-Atuo como pesquisador e desenvolvedor no **Núcleo de Tecnologia Educacional para a Saúde (NUTES)** da UEPB, com foco no **laboratório de usabilidade**.  
-Desenvolvo soluções centradas no usuário, visando acessibilidade e experiência em interfaces, utilizando tecnologias como **C#, .NET, Entity Framework e SQL Server**.  
+Atuo como pesquisador e desenvolvedor no **Núcleo de Tecnologia Educacional para a Saúde (NUTES)** da UEPB, com foco no **laboratório de usabilidade**.
+<br>
+Durante minha experiência como bolsista de Iniciação Científica (PIBIC), desenvolvi soluções centradas no usuário, visando acessibilidade e experiência em interfaces, utilizando tecnologias como **C#, .NET, .NET MAUI, Entity Framework e SQL Server**, aplicando as arquiteturas **MVC e MVVM**.
+<br>
 O objetivo do nosso laboratório é promover inovação através da interação humano-computador em contextos educacionais e assistivos.
 
 ---
 
-### 💻 Tecnologias que utilizo no dia a dia
+### 💻 Tecnologias e Ferramentas
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-442B6E?style=flat-square)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<br>
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
@@ -51,4 +66,3 @@ O objetivo do nosso laboratório é promover inovação através da interação 
 - MongoDB + Node.js para aplicações escaláveis
 
 ---
-
