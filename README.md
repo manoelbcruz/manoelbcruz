@@ -2,7 +2,7 @@
 
 🎓 Graduando em Ciência da Computação na UEPB - Campus I
 <br>
-🔬 Pesquisador e desenvolvedor bolsista no NUTES - UEPB, atuando no laboratório de usabilidade
+🔬 Pesquisador e desenvolvedor no NUTES - UEPB, atuando no Laboratório de Usabilidade e Fatores Humanos e no Laboratório de Computação Biomédica
 <br>
 💡 Entusiasta por tecnologia, desenvolvimento de sistemas e soluções práticas para o dia a dia
 <br>
@@ -21,48 +21,73 @@
 
 ### 🧪 Sobre o NUTES - UEPB
 
-Atuo como pesquisador e desenvolvedor no **Núcleo de Tecnologia Educacional para a Saúde (NUTES)** da UEPB, com foco no **laboratório de usabilidade**.
+Atuo como pesquisador e desenvolvedor no **Núcleo de Tecnologia Educacional para a Saúde (NUTES)** da UEPB, dividindo minhas atividades entre dois laboratórios estratégicos:
+
+🔹 **Laboratório de Usabilidade e Fatores Humanos:**
 <br>
-Durante minha experiência como bolsista de Iniciação Científica (PIBIC), desenvolvi soluções centradas no usuário, visando acessibilidade e experiência em interfaces, utilizando tecnologias como **C#, .NET, .NET MAUI, Entity Framework e SQL Server**, aplicando as arquiteturas **MVC e MVVM**.
+Foco na interação humano-computador e acessibilidade. Desenvolvo interfaces multiplataforma e centradas no usuário utilizando **C#, .NET, .NET MAUI e SQL Server**, aplicando padrões de arquitetura como **MVC e MVVM**.
+
+🔹 **Laboratório de Computação Biomédica:**
 <br>
-O objetivo do nosso laboratório é promover inovação através da interação humano-computador em contextos educacionais e assistivos.
+Foco em desenvolvimento backend e microsserviços. Foi neste laboratório que especializei meus conhecimentos no ecossistema **Python**, desenvolvendo APIs assíncronas de alta performance com **FastAPI, MongoDB (Beanie/Motor), Pydantic**, além de gerenciar infraestrutura e dependências com **Docker e Poetry**.
 
 ---
 
 ### 💻 Tecnologias e Ferramentas
 
+**Microsoft & Mobile Stack**
+<br>
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-442B6E?style=flat-square)
-![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
+
+**Python & Modern Backend**
+<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=flat-square&logo=poetry&logoColor=white)
+![Beanie](https://img.shields.io/badge/Beanie-ODM-black?style=flat-square)
+![Motor](https://img.shields.io/badge/Motor-Driver-green?style=flat-square)
+
+**Web & JavaScript Ecosystem**
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases & DevOps**
 <br>
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+**Outras Linguagens**
+<br>
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelbcruz&show_icons=true&theme=radical&count_private=true&cache_seconds=7200&bust_cache=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelbcruz&layout=compact&theme=radical&cache_seconds=7200&bust_cache=1)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manoelbcruz&show_icons=true&theme=radical&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manoelbcruz&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
 ---
 
 ### 🌱 Atualmente aprendendo mais sobre
-- Arquitetura de sistemas
-- DevOps com Docker e GitHub Actions
-- Clean Architecture e boas práticas em C#
-- MongoDB + Node.js para aplicações escaláveis
-
----
+- Arquitetura de sistemas e Clean Architecture
+- DevOps (Docker e GitHub Actions)
+- Design Patterns e boas práticas em C#
+- Desenvolvimento Backend Assíncrono com Python (FastAPI)
