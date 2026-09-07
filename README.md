@@ -220,11 +220,3 @@ Licenciamento em nuvem com **cobrança recorrente automatizada** (Supabase + Wor
 ![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoelbcruz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelbcruz&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
